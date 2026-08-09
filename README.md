@@ -105,4 +105,16 @@ I'm a **Data Scientist** with a passion for statistical modelling, machine learn
 
 I enjoy **finding the "why" behind the data**—using data to uncover patterns, explain complex systems and support better decisions.
 
-This repository forms part of my professional portfolio, showcasing projects completed during my MSc and refined to demonstrate both technical expertise and analytical thinking.
+This repository forms part of my professional portfolio, showcasing projects completed during my MSc that have since been refined and expanded to demonstrate both technical expertise and analytical thinking.
+
+### Connect with me
+
+💼 LinkedIn: www.linkedin.com/in/mia-emanuele
+
+💻 GitHub: https://github.com/miaemanuele77-ds
+
+---
+
+⭐ Thank you for taking the time to explore my work.
+
+Feedback, discussion and collaboration are always welcome.
