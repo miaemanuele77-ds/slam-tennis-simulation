@@ -89,7 +89,7 @@ Potential extensions include:
 
 The accompanying report explains the software design process, implementation decisions, testing strategy and interpretation of the simulation results.
 
-📄 **Tennis_Match_Simulation_Report.pdf**
+📄 **[View the full Tennis Match Simulation Report](reports/Tennis_Match_Simulation_Report.pdf)**
 
 ## 🌍 About the Author
 
